@@ -1,4 +1,3 @@
-import Distribution.Simple.Utils (xargs)
 -- Lists
 
 -- Aufgabe 1
